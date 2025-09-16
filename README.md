@@ -20,10 +20,10 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/eyad-tarek-540b31319" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Tawfik-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/eyad-tarek-540b31319" target="_blank"><img src="https://img.shields.io/badge/-Eyad%20Nagy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### Don't forget to subscribe :
-<a href="https://www.youtube.com/@eyad.nagy1" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Tawfik-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@eyad.nagy1" target="_blank"><img src="https://img.shields.io/badge/-Eyad%20Nagy-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 
 ---
 
